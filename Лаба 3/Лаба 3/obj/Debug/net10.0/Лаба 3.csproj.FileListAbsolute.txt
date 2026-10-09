@@ -1,0 +1,14 @@
+C:\Лаба 3\bin\Debug\net10.0\Лаба 3.exe
+C:\Лаба 3\bin\Debug\net10.0\Лаба 3.deps.json
+C:\Лаба 3\bin\Debug\net10.0\Лаба 3.runtimeconfig.json
+C:\Лаба 3\bin\Debug\net10.0\Лаба 3.dll
+C:\Лаба 3\bin\Debug\net10.0\Лаба 3.pdb
+C:\Лаба 3\obj\Debug\net10.0\Лаба 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Лаба 3\obj\Debug\net10.0\Лаба 3.AssemblyInfoInputs.cache
+C:\Лаба 3\obj\Debug\net10.0\Лаба 3.AssemblyInfo.cs
+C:\Лаба 3\obj\Debug\net10.0\Лаба 3.csproj.CoreCompileInputs.cache
+C:\Лаба 3\obj\Debug\net10.0\Лаба 3.dll
+C:\Лаба 3\obj\Debug\net10.0\refint\Лаба 3.dll
+C:\Лаба 3\obj\Debug\net10.0\Лаба 3.pdb
+C:\Лаба 3\obj\Debug\net10.0\Лаба 3.genruntimeconfig.cache
+C:\Лаба 3\obj\Debug\net10.0\ref\Лаба 3.dll
