@@ -1,0 +1,15 @@
+C:\Лаба 9\bin\Debug\net10.0\Лаба 9.exe
+C:\Лаба 9\bin\Debug\net10.0\Лаба 9.deps.json
+C:\Лаба 9\bin\Debug\net10.0\Лаба 9.runtimeconfig.json
+C:\Лаба 9\bin\Debug\net10.0\Лаба 9.dll
+C:\Лаба 9\bin\Debug\net10.0\Лаба 9.pdb
+C:\Лаба 9\obj\Debug\net10.0\Лаба 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Лаба 9\obj\Debug\net10.0\Лаба 9.AssemblyInfoInputs.cache
+C:\Лаба 9\obj\Debug\net10.0\Лаба 9.AssemblyInfo.cs
+C:\Лаба 9\obj\Debug\net10.0\Лаба 9.csproj.CoreCompileInputs.cache
+C:\Лаба 9\obj\Debug\net10.0\Лаба 9.dll
+C:\Лаба 9\obj\Debug\net10.0\refint\Лаба 9.dll
+C:\Лаба 9\obj\Debug\net10.0\Лаба 9.pdb
+C:\Лаба 9\obj\Debug\net10.0\Лаба 9.genruntimeconfig.cache
+C:\Лаба 9\obj\Debug\net10.0\ref\Лаба 9.dll
+C:\Лаба 9\obj\Debug\net10.0\Лаба 9.csproj.Up2Date
